@@ -1,4 +1,4 @@
-"""T2OF reference implementation module; not original experimental code."""
+
 import numpy as np
 import torch
 from torch import nn
