@@ -1,4 +1,4 @@
-"""T2OF reference implementation module; not original experimental code."""
+
 import numpy as np
 import cvxpy as cp
 from config import M, K, POWER, NOISE, TOL
