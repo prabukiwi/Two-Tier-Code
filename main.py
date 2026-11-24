@@ -1,4 +1,4 @@
-"""T2OF reference implementation module; not original experimental code."""
+
 import argparse, time, json
 import numpy as np
 from scipy.special import ndtr
